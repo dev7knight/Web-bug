@@ -1,0 +1,9 @@
+pywebcopy
+requests
+colorama
+time
+threading
+queue
+socket
+pyarmor
+pyinstaller
