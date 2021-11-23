@@ -40,7 +40,7 @@
 [Instgram](https://www.instagram.com/dev7knight/)
 [Discord Server](https://discord.gg/MVmDYSVdzF)
 
-Fucking follow us on github 2
+Fucking follow me on github 
 
 -Knight
 
