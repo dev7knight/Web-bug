@@ -26,7 +26,7 @@
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-![image](https://cdn.discordapp.com/attachments/878588472242343936/912771067632816170/Capture_2021_11_23_20_26_09_422.png)
+![image](https://github.com/dev7knight/Web-bug/blob/main/Capture_2021_11_23_20_26_09_422.png)
 
 ### Why No SOurce Code?
 - Bec i worked hard on this tool and i dont any one to go ahead and look in the tool source code and copy paste it and say he made it
