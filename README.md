@@ -8,6 +8,8 @@
 
 - Remember to use this tool on your own purpose no wrong use of it
 
+- The tool is 100% made by me 
+
 - This is still a beta version of the tools if you find any issue let me know :DD
 
 
@@ -39,6 +41,8 @@
 [Youtube](https://www.youtube.com/c/dev7knight)
 [Instgram](https://www.instagram.com/dev7knight/)
 [Discord Server](https://discord.gg/MVmDYSVdzF)
+[Check out zero-tool](https://github.com/AsjadOooO/Zero-attacker)
+
 
 Fucking follow me on github 
 
